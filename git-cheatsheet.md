@@ -1,13 +1,16 @@
-- git init
-- git status
-- git add <filename>
-- git add .
-- git commit -m 'Message'
-- git remote add origin <githubadress>
-- git push -u origin main
-- git clone
-- git push
-- git switch -c <branchname>
-- git switch <branchname>
-- git log
-- git branch
+- git init (initialisiert einen ordner für Github)
+- git status (gibt den Status an)
+- git add <filename> (addet die eine datei)
+- git add . (addet die alle Dateien)
+- git commit -m 'Message' (commitet eine Datei mit einer Message)
+- git remote add origin <githubadress> (gibt die Adresse der Repo a)
+- git push -u origin main (lädt die Dateien von lokal zum Main Remote)
+- git clone (lädt das komplette reposotory von remote zu lokal)
+- git push (lädt die datei von lokal zu remote)
+- git switch -c <branchname> (erstellt ein neues Branch)
+- git switch <branchname> (wechsel in anderen Branch)
+- git log (LOGBOCH für die commits/branch)
+- git branch (zeigt an wieviele Branches es gibt)
+- git pull (lädt die Dateien von Remote auf lokal)
+- git remote -v (gibt die remote art an https oder ssh)
+- git remote set-url origin <githubadress> (ändert die url der githubadress (ssh oder https))

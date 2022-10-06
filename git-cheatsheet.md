@@ -11,4 +11,3 @@
 - git switch <branchname>
 - git log
 - git branch
-  g

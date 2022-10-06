@@ -1,0 +1,14 @@
+- git init
+- git status
+- git add <filename>
+- git add .
+- git commit -m 'Message'
+- git remote add origin <githubadress>
+- git push -u origin main
+- git clone
+- git push
+- git switch -c <branchname>
+- git switch <branchname>
+- git log
+- git branch
+  g
